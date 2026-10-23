@@ -1,0 +1,13 @@
+body{
+    /*background-image: url("/img/Zelda.jpg");*/
+    background-color: aqua;
+}
+
+h1,h3{
+    background-color: blueviolet;
+    color: azure;
+}
+
+#especial{
+    background-color: chartreuse;
+}
